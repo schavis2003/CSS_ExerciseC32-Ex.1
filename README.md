@@ -3,7 +3,7 @@ title: "Exercise: CSS Intro"
 slug: "/css-intro-exercise"
 ---
 
-[Exercise Repo](https://github.com/Bryantellius/CSS_Exercise)
+<!-- [Exercise Repo](https://github.com/Bryantellius/CSS_Exercise) -->
 
 ## Objective
 
